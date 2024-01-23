@@ -1,0 +1,4 @@
+# Assuming you have a CI/CD tool installed (e.g., Jenkins) and a pipeline defined
+# Trigger the CI/CD pipeline for your project
+jenkins-cli start-build MyProject
+
